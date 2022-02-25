@@ -1,0 +1,36 @@
+header {
+    background-color: blueviolet;
+}
+
+img {
+    width: 200px;
+}
+
+main {
+background-color: gold;
+    padding: 10px;
+}
+
+.post {
+    background-color: lawngreen;
+    padding: 20px;
+    border-radius: 15px;
+    display: flex;
+    margin-bottom: 20px;
+}
+
+.post img {
+    margin: 10px;
+}
+footer {
+    background-color: blueviolet;
+}
+
+.columns {
+    display: flex;
+}
+
+.column {
+    flex: 50%;
+    margin: 20px;
+}
